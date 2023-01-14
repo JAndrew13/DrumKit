@@ -11,6 +11,9 @@ Though I might be rhythmically challenged, this project was a great use case for
 
 Feel free to take the kit for a spin and smash some buttons!
 
+<img src="https://github.com/JAndrew13/DrumKit/blob/main/DrumKit.jpg" width="1000">
+
+
 >"I got blisters on me fingers!"
 -Ringo Starr *The Beatles*
  
