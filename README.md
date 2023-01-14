@@ -42,13 +42,13 @@ Feel free to take the kit for a spin and smash some buttons!
 <!-- DIRECTORY -->
 ## Directory
 
-### [/Root]()
+### [/Root](https://github.com/JAndrew13/DrumKit)
 Folder containing CSS style sheet, main html page, and the index.js logic file.
 
-### [/images]()
+### [/images](https://github.com/JAndrew13/DrumKit/tree/main/images)
 Contains all images used in the project.
 
-### [/sounds]()
+### [/sounds](https://github.com/JAndrew13/DrumKit/tree/main/sounds)
 Contains all audio files used in the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
