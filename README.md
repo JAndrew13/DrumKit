@@ -9,7 +9,7 @@ Upon loading the web page, you are greeted with an arrangement of seven drums ma
 
 Though I might be rhythmically challenged, this project was a great use case for learning about Javascript's *event.key* listeners, the use of community *npm packages*, as well as excellent target practice for *JQuery elements* in the html. 
 
-Feel free to take the kit for a spin and smash some buttons!
+Feel free to take the kit for a spin and smash some buttons with the live project [here](https://drumkit.jakebrunner.com/)
 
 <img src="https://github.com/JAndrew13/DrumKit/blob/main/DrumKit.jpg" width="1000">
 
